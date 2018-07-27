@@ -8,6 +8,7 @@
     <title>Exercice 4/2</title>
   </head>
   <body>
+    <p>
     <?php
       switch ($magnitude) {
         case 1:
@@ -51,5 +52,6 @@
         break;
       }
     ?>
+  </p>
   </body>
 </html>
